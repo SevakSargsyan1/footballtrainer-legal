@@ -93,6 +93,7 @@ These providers may process data on servers outside Armenia, including in the Eu
 - **Teammates in your organization** can see your nickname, avatar, scores, and ranking on leaderboards, and can give you likes.
 - The App contains no public chat or free-text messaging between users.
 - Information is not shown to users outside your organization, except as described in Section 4.
+- If you leave a team (or your coach disbands it), your past results are detached from that team and are no longer visible to its coach.
 
 ## 8. Your Rights
 
